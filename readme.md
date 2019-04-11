@@ -1,2 +1,2 @@
 # Carrera de Tortugas
-Proyecto que muestra como hacer utilizar objetos de tipo tortuga.
+Proyecto que muestra como utilizar objetos de tipo tortuga.

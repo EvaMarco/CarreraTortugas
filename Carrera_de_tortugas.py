@@ -13,7 +13,7 @@ class Circuito:
         self.__screen.setup(width, height)
         self.__screen.bgcolor('lightgrey')
         self.__starline = (-width/2 + 5 * width/100)
-        self.__endline = (width/2 + 5 * width/100)
+        self.__endline = (width/2 - 5 * width/100)
         self.__createrunners()
         
     # Creamos los corredores.
